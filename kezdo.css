@@ -3,6 +3,7 @@
 }
 body{
     background-image: url('hatter.jpg');
+    background-size: cover;
     border: 1px solid white;
 }
 main{
